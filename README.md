@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshanWebDeveloper
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning Web Development in ReactJS and NextJS.
+- 🌱 I’m currently reading for BEng(Hons) Software Engineering degree.
 - 💞️ I’m looking to collaborate on Web Design and Web Development Projects.
 - 📫 You can reach me @https://www.facebook.com/ishan.hettiarachchi.messenger/
 
