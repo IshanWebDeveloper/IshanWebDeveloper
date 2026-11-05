@@ -8,8 +8,8 @@ Full-stack and mobile engineer in Gampaha, Sri Lanka. I build and ship productio
 
 | Project | What I did | Stack | Link |
 | --- | --- | --- | --- |
-| **SMS Box** (Ceylon Labs) | Sole developer: REST API, admin panel and mobile app for an SMS slot-rental platform. 50k+ Play Store downloads. | NestJS, Next.js, Expo, BullMQ, Socket.IO | - |
-| **BabyCarePro** | Built the React Native app, published on Google Play (4.8 rating). | React Native | [babycarepro.lk](https://babycarepro.lk) |
+| **SMS Box** (Ceylon Labs) | Sole developer: REST API, admin panel and mobile app for an SMS slot-rental platform. 50k+ Play Store downloads. | NestJS, Next.js, Expo, BullMQ, Socket.IO | [Google Play](https://play.google.com/store/apps/details?id=com.ceylonlabs.freesms) |
+| **BabyCarePro** | Built the React Native app, published on Google Play (4.8 rating). | React Native | [Google Play](https://play.google.com/store/apps/details?id=com.babycareprolk.app) · [babycarepro.lk](https://babycarepro.lk) |
 | **Colour House website** | Company website. | React, Next.js | [colourhouse.org](https://colourhouse.org) |
 
 Production code for these is client-owned and private. Case studies are on the way.
